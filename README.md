@@ -1,4 +1,4 @@
-# Project: Wrangling and Analyze Data
+# Project: Wrangling and Analyze Twitter Data
 
 ## by Betabasi Daniel
 
