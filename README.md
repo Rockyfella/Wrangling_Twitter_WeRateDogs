@@ -1,4 +1,4 @@
-# Project: Wrangle and Analyze WeRateDogs Twitter Data
+# Project 2: Wrangle and Analyze WeRateDogs Twitter Data
 
 ## by Betabasi Daniel
 
